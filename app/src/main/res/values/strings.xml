@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes2</string>
+    <string name="main_activity_to_take_note">Dotknij tu, żeby dodać notatkę</string>
+    <string name="actv_det_title">Tytuł &#8230;</string>
+    <string name="actv_det_note">Notatka&#8230;</string>
+    <string name="menu_details_save">Zapisz</string>
+    <string name="menu_details_name">Menu</string>
+    <string name="menu_details_delete">Usuń</string>
+    <string name="adapter_title_hint">Tytuł&#8230;</string>
+    <string name="adapter_note_hint">Notatka&#8230;</string>
+
+</resources>
